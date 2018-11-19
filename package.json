@@ -1,5 +1,5 @@
 {
-  "name": "nodemate-bridge",
+  "name": "@nodemate/nodemate-bridge",
   "version": "1.0.0",
   "description": "Bridge between Node and Native used in NodeMate",
   "main": "index.js",
@@ -26,5 +26,6 @@
   "homepage": "https://github.com/NodeMate/nodemate-bridge#readme",
   "dependencies": {
     "ws": "^6.1.2"
-  }
+  },
+  "devDependencies": {}
 }
