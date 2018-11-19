@@ -1,5 +1,5 @@
 {
-  "name": "@nodemate/nodemate-bridge",
+  "name": "@nodemate/bridge",
   "version": "1.0.0",
   "description": "Bridge between Node and Native used in NodeMate",
   "main": "index.js",
@@ -21,9 +21,9 @@
   "author": "Peter Gammelgaard Poulsen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeMate/nodemate-bridge/issues"
+    "url": "https://github.com/NodeMate/bridge/issues"
   },
-  "homepage": "https://github.com/NodeMate/nodemate-bridge#readme",
+  "homepage": "https://github.com/NodeMate/bridge#readme",
   "dependencies": {
     "ws": "^6.1.2"
   },
